@@ -1,0 +1,4 @@
+teste do projeto.
+ssh-keygen -t rsa -f "C:/Users/JOEL SANCHEZ/Documents/Isabela/.ssh/github" -C 'isabelazsanchez@outlook.com'
+eval "$(ssh-agent -s)"
+ssh-add "C:/Users/JOEL SANCHEZ/Documents/Isabela/.ssh/github"
